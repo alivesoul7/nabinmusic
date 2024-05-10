@@ -1,0 +1,19 @@
+
+/* CSS for Mobile Devices */
+@media only screen and (max-width: 600px) {
+    /* Adjust font sizes */
+    body {
+        font-size: 14px;
+    }
+
+    /* Center align the content */
+    body, center {
+        text-align: center;
+    }
+
+    /* Adjust video size */
+    video {
+        width: 100%;
+        height: auto;
+    }
+}
